@@ -6,7 +6,6 @@ I've worked in full stack development on enterprise java web applications, deskt
 and visualization where we utilize the information in our application logs to monitor system health and provide business intelligence
 to our customers using Splunk.
 
-I'm currently learning Node JS as part of a rewrite of a work tool to bring it up to security standards.
 
 <!---
 john-hafner/john-hafner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
